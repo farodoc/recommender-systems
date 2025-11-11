@@ -1,3 +1,5 @@
 .venv/
 socialmediadata-beeradvocate/
 MINDsmall_train/
+ml-latest-small
+groups.csv
